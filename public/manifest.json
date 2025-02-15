@@ -1,0 +1,32 @@
+{
+  "theme_color": "#f3217e",
+  "background_color": "#5f21f3",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "app_name": "app name dr rajeev",
+  "short_name": "shirt name dr rajeev",
+  "description": "lorem ipsum helo worl",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-256x256.png",
+      "sizes": "256x",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-384x384.png",
+      "sizes": "384x",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x",
+      "type": "image/png"
+    }
+  ]
+}
